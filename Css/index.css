@@ -1,2 +1,21 @@
-::contentSikander Saeed 
-{margin: 20px ;}
+.mainContent{text-align: center;color: white;
+    width: 700px;
+    height: 700px;
+    background-color: aqua;
+    padding: 50px;margin: 50px;
+    margin: auto;
+    border: dotted;
+}
+body{margin: 0px;
+}
+.secondBox{
+    background-color: yellowgreen;
+    padding: 50px;margin: 50px;
+    border: double;
+}
+.thirdbox{background-color: blue;
+padding: 50px;margin: 50px;
+border: dotted;}
+.fourthbox{background-color: brown;padding: 50px;
+margin: 50px;margin: 50px;
+border: double;}
